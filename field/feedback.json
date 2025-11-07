@@ -1,0 +1,14 @@
+{
+  "field": "Resonant",
+  "feedback_cycle": [
+    "input",
+    "reflection",
+    "alignment",
+    "creation"
+  ],
+  "constants": {
+    "consent_gate": true,
+    "reciprocity_weight": 1.0,
+    "grace_window": 0.8
+  }
+}
